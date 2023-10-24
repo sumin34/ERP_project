@@ -2,7 +2,7 @@
 
 
 <center>
-    <img src="./img/pic1.png"  style="zoom:76%;" align="center"/>
+    <img src=""  style="zoom:76%;" align="center"/>
 </center>
 
 
@@ -19,7 +19,7 @@
 ## ✨ 프로젝트 설명
 
 ```sh
-~~~는 어쩌고 저쩌고 서비스 입니다.
+지난 구매기록을 바탕으로 오늘의 발주량을 예측하여 자동으로 발주를 해주는 ERP 서비스입니다.
 ```
 
 ## 🎬 [데모 사이트](http://www.naver.com) <- 클릭하면 이동됩니다!

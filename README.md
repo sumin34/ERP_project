@@ -1,4 +1,4 @@
-<h1 align="center">프로젝트 제목 👍</h1>
+<h1 align="center"> ERP 자동발주시스템 👍</h1>
 
 
 <center>

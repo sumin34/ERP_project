@@ -33,7 +33,7 @@
 1. react를 활용하여 웹 프론트 페이지를 구현합니다.
     - 라이브러리를 이용하여 차트 그리기 / 
     - 그리드 라이브러리를 사용하여 프론트에서 정보 확인과 관리가 용이하도록 합니다.
-2. 실제 해커톤의 판매량 예측 데이터[판매량 데이터 링크](https://dacon.io/competitions/official/236129/data)
+2. 실제 해커톤의 판매량 예측 데이터<https://dacon.io/competitions/official/236129/data>
 ```
 
 

@@ -10,8 +10,8 @@
 > [한국품질재단] 스마트팩토리SW개발과정 / 2팀
 
 
-🎬[Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)   
-🎤[발표](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)  
+🎬[Demo 시연영상](http://link)   
+🎤[발표](https://link)  
 📃[프로젝트 회고록](블로그주소) 
 
 <br>
@@ -19,7 +19,7 @@
 ## ✨ 프로젝트 설명
 
 ```sh
-지난 발주기록을 바탕으로 오늘의 발주량을 예측하여 자동으로 발주를 해주는 ERP 시스템 서비스입니다.
+어제까지의 발주기록을 바탕으로 오늘의 발주량을 예측하여 자동으로 발주를 해주는 ERP 시스템 서비스입니다.
 ```
 
 ## 🎬 [데모 사이트](http://3.35.21.109/) <- 클릭하면 이동됩니다!
@@ -31,7 +31,9 @@
 ## 📌 프로젝트 목표
 
 ```sh
-어떤 어떤 기술을 활용해 어떤 걸 구현하려 했다
+1. react를 활용하여 웹 프론트 페이지를 구현합니다.
+    - 라이브러리를 이용하여 차트 그리기 / 
+    - 
 ```
 
 

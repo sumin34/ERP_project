@@ -4,3 +4,6 @@
 [submodule "back"]
 	path = back
 	url = https://github.com/ttu510/ERPback
+[submodule "futuresales"]
+	path = futuresales
+	url = https://github.com/SungUk/futuresales.git

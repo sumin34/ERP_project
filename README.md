@@ -38,16 +38,16 @@
 
 ## 🔍 Overview
 
-### 1. 사용자 회원 가입 및 로그인 기능(토큰 인증 방식)
+### 1. 
 
 <center>
     <img src="./img/pic2.png" />
 </center>
-JWT를 이용한 토큰 인증 방식
+
 
 <br>
 
-### 2. 게시판 기능
+### 2.  기능
 
 <center>
     <img src="./img/pic1.png" />
